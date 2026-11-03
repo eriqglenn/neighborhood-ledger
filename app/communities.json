@@ -1,0 +1,1357 @@
+{
+  "source": "https://services.arcgis.com/NummVBqZSIJKUeVR/arcgis/rest/services/COH_Super_Neighborhoods_view/FeatureServer/3/query?where=1%3D1&outFields=*&returnGeometry=false&f=json",
+  "checkedAt": "2026-10-29",
+  "communities": [
+    {
+      "id": "6",
+      "name": "Acres Home",
+      "officialName": "ACRES HOME",
+      "aliases": [
+        "Acres Home"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/6.html",
+      "councilDistricts": [
+        "B",
+        "C",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "9",
+      "name": "Addicks Park Ten",
+      "officialName": "ADDICKS PARK TEN",
+      "aliases": [
+        "Addicks Park Ten"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/9.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "23",
+      "name": "Afton Oaks / River Oaks Area",
+      "officialName": "AFTON OAKS / RIVER OAKS AREA",
+      "aliases": [
+        "Afton Oaks / River Oaks Area",
+        "Afton Oaks / River Oaks",
+        "Afton Oaks",
+        "River Oaks"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/23.html",
+      "councilDistricts": [
+        "G"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "25",
+      "name": "Alief",
+      "officialName": "ALIEF",
+      "aliases": [
+        "Alief"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/25.html",
+      "councilDistricts": [
+        "F",
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "34",
+      "name": "Astrodome Area",
+      "officialName": "ASTRODOME AREA",
+      "aliases": [
+        "Astrodome Area",
+        "Astrodome"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/34.html",
+      "councilDistricts": [
+        "D",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "30",
+      "name": "Braeburn",
+      "officialName": "BRAEBURN",
+      "aliases": [
+        "Braeburn"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/30.html",
+      "councilDistricts": [
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "32",
+      "name": "Braeswood",
+      "officialName": "BRAESWOOD",
+      "aliases": [
+        "Braeswood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/32.html",
+      "councilDistricts": [
+        "C",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "36",
+      "name": "Brays Oaks",
+      "officialName": "BRAYS OAKS",
+      "aliases": [
+        "Brays Oaks",
+        "Greater Fondren Southwest"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/36.html",
+      "councilDistricts": [
+        "J",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "18",
+      "name": "Briar Forest",
+      "officialName": "BRIAR FOREST",
+      "aliases": [
+        "Briar Forest"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/18.html",
+      "councilDistricts": [
+        "F",
+        "G"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "3",
+      "name": "Carverdale",
+      "officialName": "CARVERDALE",
+      "aliases": [
+        "Carverdale"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/3.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "12",
+      "name": "Central Northwest",
+      "officialName": "CENTRAL NORTHWEST",
+      "aliases": [
+        "Central Northwest",
+        "Near Northwest"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/12.html",
+      "councilDistricts": [
+        "A",
+        "C",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "40",
+      "name": "Central Southwest",
+      "officialName": "CENTRAL SOUTHWEST",
+      "aliases": [
+        "Central Southwest"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/40.html",
+      "councilDistricts": [
+        "D",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "81",
+      "name": "Clear Lake",
+      "officialName": "CLEAR LAKE",
+      "aliases": [
+        "Clear Lake"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/81.html",
+      "councilDistricts": [
+        "D",
+        "E"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "59",
+      "name": "Clinton Park Tri-Community",
+      "officialName": "CLINTON PARK TRI-COMMUNITY",
+      "aliases": [
+        "Clinton Park Tri-Community"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/59.html",
+      "councilDistricts": [
+        "B",
+        "H",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "56",
+      "name": "Denver Harbor / Port Houston",
+      "officialName": "DENVER HARBOR / PORT HOUSTON",
+      "aliases": [
+        "Denver Harbor / Port Houston",
+        "Denver Harbor",
+        "Port Houston"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/56.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "61",
+      "name": "Downtown",
+      "officialName": "DOWNTOWN",
+      "aliases": [
+        "Downtown"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/61.html",
+      "councilDistricts": [
+        "B",
+        "H",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "49",
+      "name": "East Houston",
+      "officialName": "EAST HOUSTON",
+      "aliases": [
+        "East Houston"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/49.html",
+      "councilDistricts": [
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "47",
+      "name": "East Little York / Homestead",
+      "officialName": "EAST LITTLE YORK / HOMESTEAD",
+      "aliases": [
+        "East Little York / Homestead",
+        "East Little York",
+        "Homestead"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/47.html",
+      "councilDistricts": [
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "46",
+      "name": "Eastex - Jensen Area",
+      "officialName": "EASTEX - JENSEN AREA",
+      "aliases": [
+        "Eastex - Jensen Area",
+        "Eastex - Jensen",
+        "Eastex",
+        "Jensen"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/46.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "79",
+      "name": "Edgebrook Area",
+      "officialName": "EDGEBROOK AREA",
+      "aliases": [
+        "Edgebrook Area",
+        "Edgebrook"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/79.html",
+      "councilDistricts": [
+        "E",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "53",
+      "name": "El Dorado / Oates Prairie",
+      "officialName": "EL DORADO / OATES PRAIRIE",
+      "aliases": [
+        "El Dorado / Oates Prairie",
+        "El Dorado",
+        "Oates Prairie"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/53.html",
+      "councilDistricts": [
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "17",
+      "name": "Eldridge / West Oaks",
+      "officialName": "ELDRIDGE / WEST OAKS",
+      "aliases": [
+        "Eldridge / West Oaks",
+        "Eldridge",
+        "West Oaks"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/17.html",
+      "councilDistricts": [
+        "F",
+        "G"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "4",
+      "name": "Fairbanks / Northwest Crossing",
+      "officialName": "FAIRBANKS / NORTHWEST CROSSING",
+      "aliases": [
+        "Fairbanks / Northwest Crossing",
+        "Fairbanks",
+        "Northwest Crossing"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/4.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "39",
+      "name": "Fondren Gardens",
+      "officialName": "FONDREN GARDENS",
+      "aliases": [
+        "Fondren Gardens"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/39.html",
+      "councilDistricts": [
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "41",
+      "name": "Fort Bend Houston",
+      "officialName": "FORT BEND HOUSTON",
+      "aliases": [
+        "Fort Bend Houston"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/41.html",
+      "councilDistricts": [
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "60",
+      "name": "Fourth Ward",
+      "officialName": "FOURTH WARD",
+      "aliases": [
+        "Fourth Ward"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/60.html",
+      "councilDistricts": [
+        "C",
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "73",
+      "name": "Golfcrest / Bellfort / Reveille",
+      "officialName": "GOLFCREST / BELLFORT / REVEILLE",
+      "aliases": [
+        "Golfcrest / Bellfort / Reveille",
+        "Golfcrest",
+        "Bellfort",
+        "Reveille"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/73.html",
+      "councilDistricts": [
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "64",
+      "name": "Greater Eastwood",
+      "officialName": "GREATER EASTWOOD",
+      "aliases": [
+        "Greater Eastwood",
+        "Eastwood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/64.html",
+      "councilDistricts": [
+        "H",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "55",
+      "name": "Greater Fifth Ward",
+      "officialName": "GREATER FIFTH WARD",
+      "aliases": [
+        "Greater Fifth Ward",
+        "Fifth Ward"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/55.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "2",
+      "name": "Greater Greenspoint",
+      "officialName": "GREATER GREENSPOINT",
+      "aliases": [
+        "Greater Greenspoint",
+        "Greenspoint"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/2.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "15",
+      "name": "Greater Heights",
+      "officialName": "GREATER HEIGHTS",
+      "aliases": [
+        "Greater Heights",
+        "Houston Heights",
+        "The Heights",
+        "Heights"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/15.html",
+      "councilDistricts": [
+        "C",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "78",
+      "name": "Greater Hobby Area",
+      "officialName": "GREATER HOBBY AREA",
+      "aliases": [
+        "Greater Hobby Area",
+        "Hobby"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/78.html",
+      "councilDistricts": [
+        "D",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "5",
+      "name": "Greater Inwood",
+      "officialName": "GREATER INWOOD",
+      "aliases": [
+        "Greater Inwood",
+        "Inwood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/5.html",
+      "councilDistricts": [
+        "A",
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "68",
+      "name": "Greater OST / South Union",
+      "officialName": "GREATER OST / SOUTH UNION",
+      "aliases": [
+        "Greater OST / South Union",
+        "OST / South Union",
+        "OST",
+        "South Union"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/68.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "67",
+      "name": "Greater Third Ward",
+      "officialName": "GREATER THIRD WARD",
+      "aliases": [
+        "Greater Third Ward",
+        "Third Ward"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/67.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "21",
+      "name": "Greater Uptown",
+      "officialName": "GREATER UPTOWN",
+      "aliases": [
+        "Greater Uptown",
+        "Uptown"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/21.html",
+      "councilDistricts": [
+        "A",
+        "G",
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "87",
+      "name": "Greenway / Upper Kirby Area",
+      "officialName": "GREENWAY / UPPER KIRBY AREA",
+      "aliases": [
+        "Greenway / Upper Kirby Area",
+        "Greenway / Upper Kirby",
+        "Greenway",
+        "Upper Kirby"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/87.html",
+      "councilDistricts": [
+        "C",
+        "G"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "69",
+      "name": "Gulfgate Riverview / Pine Valley",
+      "officialName": "GULFGATE RIVERVIEW / PINE VALLEY",
+      "aliases": [
+        "Gulfgate Riverview / Pine Valley",
+        "Gulfgate Riverview",
+        "Pine Valley"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/69.html",
+      "councilDistricts": [
+        "D",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "27",
+      "name": "Gulfton",
+      "officialName": "GULFTON",
+      "aliases": [
+        "Gulfton"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/27.html",
+      "councilDistricts": [
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "65",
+      "name": "Harrisburg / Manchester / Smith Addition",
+      "officialName": "HARRISBURG / MANCHESTER / SMITH ADDITION",
+      "aliases": [
+        "Harrisburg / Manchester / Smith Addition",
+        "Harrisburg",
+        "Manchester",
+        "Smith Addition"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/65.html",
+      "councilDistricts": [
+        "H",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "7",
+      "name": "Hidden Valley",
+      "officialName": "HIDDEN VALLEY",
+      "aliases": [
+        "Hidden Valley"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/7.html",
+      "councilDistricts": [
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "54",
+      "name": "Hunterwood",
+      "officialName": "HUNTERWOOD",
+      "aliases": [
+        "Hunterwood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/54.html",
+      "councilDistricts": [
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "42",
+      "name": "IAH / Airport Area",
+      "officialName": "IAH / AIRPORT AREA",
+      "aliases": [
+        "IAH / Airport Area",
+        "IAH / Airport",
+        "IAH"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/42.html",
+      "councilDistricts": [
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "13",
+      "name": "Independence Heights",
+      "officialName": "INDEPENDENCE HEIGHTS",
+      "aliases": [
+        "Independence Heights"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/13.html",
+      "councilDistricts": [
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "52",
+      "name": "Kashmere Gardens",
+      "officialName": "KASHMERE GARDENS",
+      "aliases": [
+        "Kashmere Gardens"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/52.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "43",
+      "name": "Kingwood Area",
+      "officialName": "KINGWOOD AREA",
+      "aliases": [
+        "Kingwood Area",
+        "Kingwood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/43.html",
+      "councilDistricts": [
+        "E"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "44",
+      "name": "Lake Houston",
+      "officialName": "LAKE HOUSTON",
+      "aliases": [
+        "Lake Houston"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/44.html",
+      "councilDistricts": [
+        "E"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "11",
+      "name": "Langwood",
+      "officialName": "LANGWOOD",
+      "aliases": [
+        "Langwood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/11.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "88",
+      "name": "Lawndale / Wayside",
+      "officialName": "LAWNDALE / WAYSIDE",
+      "aliases": [
+        "Lawndale / Wayside",
+        "Lawndale",
+        "Wayside"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/88.html",
+      "councilDistricts": [
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "14",
+      "name": "Lazybrook / Timbergrove",
+      "officialName": "LAZYBROOK / TIMBERGROVE",
+      "aliases": [
+        "Lazybrook / Timbergrove",
+        "Lazybrook",
+        "Timbergrove"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/14.html",
+      "councilDistricts": [
+        "A",
+        "C"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "83",
+      "name": "Macgregor",
+      "officialName": "MACGREGOR",
+      "aliases": [
+        "Macgregor"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/83.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "82",
+      "name": "Magnolia Park",
+      "officialName": "MAGNOLIA PARK",
+      "aliases": [
+        "Magnolia Park"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/82.html",
+      "councilDistricts": [
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "75",
+      "name": "Meadowbrook / Allendale",
+      "officialName": "MEADOWBROOK / ALLENDALE",
+      "aliases": [
+        "Meadowbrook / Allendale",
+        "Meadowbrook",
+        "Allendale"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/75.html",
+      "councilDistricts": [
+        "E",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "33",
+      "name": "Medical Center Area",
+      "officialName": "MEDICAL CENTER AREA",
+      "aliases": [
+        "Medical Center Area",
+        "Medical Center"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/33.html",
+      "councilDistricts": [
+        "D",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "16",
+      "name": "Memorial",
+      "officialName": "MEMORIAL",
+      "aliases": [
+        "Memorial"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/16.html",
+      "councilDistricts": [
+        "G"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "31",
+      "name": "Meyerland Area",
+      "officialName": "MEYERLAND AREA",
+      "aliases": [
+        "Meyerland Area",
+        "Meyerland"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/31.html",
+      "councilDistricts": [
+        "C",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "20",
+      "name": "Mid West",
+      "officialName": "MID WEST",
+      "aliases": [
+        "Mid West"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/20.html",
+      "councilDistricts": [
+        "F",
+        "G",
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "62",
+      "name": "Midtown",
+      "officialName": "MIDTOWN",
+      "aliases": [
+        "Midtown"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/62.html",
+      "councilDistricts": [
+        "C",
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "77",
+      "name": "Minnetex",
+      "officialName": "MINNETEX",
+      "aliases": [
+        "Minnetex"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/77.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "66",
+      "name": "Museum Park",
+      "officialName": "MUSEUM PARK",
+      "aliases": [
+        "Museum Park",
+        "Museum District",
+        "Binz"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/66.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "51",
+      "name": "Near Northside",
+      "officialName": "NEAR NORTHSIDE",
+      "aliases": [
+        "Near Northside"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/51.html",
+      "councilDistricts": [
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "38",
+      "name": "Near Southwest",
+      "officialName": "NEAR SOUTHWEST",
+      "aliases": [
+        "Near Southwest"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/38.html",
+      "councilDistricts": [
+        "C",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "24",
+      "name": "Neartown - Montrose",
+      "officialName": "NEARTOWN - MONTROSE",
+      "aliases": [
+        "Neartown - Montrose",
+        "Neartown",
+        "Montrose"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/24.html",
+      "councilDistricts": [
+        "C"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "58",
+      "name": "Northshore",
+      "officialName": "NORTHSHORE",
+      "aliases": [
+        "Northshore"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/58.html",
+      "councilDistricts": [
+        "E",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "45",
+      "name": "Northside/Northline",
+      "officialName": "NORTHSIDE/NORTHLINE",
+      "aliases": [
+        "Northside/Northline",
+        "Northside",
+        "Northline"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/45.html",
+      "councilDistricts": [
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "74",
+      "name": "Park Place",
+      "officialName": "PARK PLACE",
+      "aliases": [
+        "Park Place"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/74.html",
+      "councilDistricts": [
+        "E",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "70",
+      "name": "Pecan Park",
+      "officialName": "PECAN PARK",
+      "aliases": [
+        "Pecan Park"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/70.html",
+      "councilDistricts": [
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "57",
+      "name": "Pleasantville Area",
+      "officialName": "PLEASANTVILLE AREA",
+      "aliases": [
+        "Pleasantville Area",
+        "Pleasantville"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/57.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "63",
+      "name": "Second Ward",
+      "officialName": "SECOND WARD",
+      "aliases": [
+        "Second Ward"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/63.html",
+      "councilDistricts": [
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "50",
+      "name": "Settegast",
+      "officialName": "SETTEGAST",
+      "aliases": [
+        "Settegast"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/50.html",
+      "councilDistricts": [
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "26",
+      "name": "Sharpstown",
+      "officialName": "SHARPSTOWN",
+      "aliases": [
+        "Sharpstown"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/26.html",
+      "councilDistricts": [
+        "F",
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "76",
+      "name": "South Acres / Crestmont Park",
+      "officialName": "SOUTH ACRES / CRESTMONT PARK",
+      "aliases": [
+        "South Acres / Crestmont Park",
+        "South Acres",
+        "Crestmont Park"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/76.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "80",
+      "name": "South Belt / Ellington",
+      "officialName": "SOUTH BELT / ELLINGTON",
+      "aliases": [
+        "South Belt / Ellington",
+        "South Belt",
+        "Ellington"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/80.html",
+      "councilDistricts": [
+        "D",
+        "E",
+        "I"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "35",
+      "name": "South Main",
+      "officialName": "SOUTH MAIN",
+      "aliases": [
+        "South Main"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/35.html",
+      "councilDistricts": [
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "72",
+      "name": "South Park",
+      "officialName": "SOUTH PARK",
+      "aliases": [
+        "South Park"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/72.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "85",
+      "name": "Spring Branch Central",
+      "officialName": "SPRING BRANCH CENTRAL",
+      "aliases": [
+        "Spring Branch Central"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/85.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "86",
+      "name": "Spring Branch East",
+      "officialName": "SPRING BRANCH EAST",
+      "aliases": [
+        "Spring Branch East"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/86.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "84",
+      "name": "Spring Branch North",
+      "officialName": "SPRING BRANCH NORTH",
+      "aliases": [
+        "Spring Branch North"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/84.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "10",
+      "name": "Spring Branch West",
+      "officialName": "SPRING BRANCH WEST",
+      "aliases": [
+        "Spring Branch West"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/10.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "71",
+      "name": "Sunnyside",
+      "officialName": "SUNNYSIDE",
+      "aliases": [
+        "Sunnyside"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/71.html",
+      "councilDistricts": [
+        "D"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "48",
+      "name": "Trinity / Houston Gardens",
+      "officialName": "TRINITY / HOUSTON GARDENS",
+      "aliases": [
+        "Trinity / Houston Gardens",
+        "Trinity",
+        "Houston Gardens"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/48.html",
+      "councilDistricts": [
+        "B",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "28",
+      "name": "University Place",
+      "officialName": "UNIVERSITY PLACE",
+      "aliases": [
+        "University Place"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/28.html",
+      "councilDistricts": [
+        "C"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "22",
+      "name": "Washington Avenue Coalition / Memorial Park",
+      "officialName": "WASHINGTON AVENUE COALITION / MEMORIAL PARK",
+      "aliases": [
+        "Washington Avenue Coalition / Memorial Park",
+        "Washington Avenue Coalition",
+        "Memorial Park"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/22.html",
+      "councilDistricts": [
+        "C",
+        "H"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "8",
+      "name": "Westbranch",
+      "officialName": "WESTBRANCH",
+      "aliases": [
+        "Westbranch"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/8.html",
+      "councilDistricts": [
+        "A"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "37",
+      "name": "Westbury",
+      "officialName": "WESTBURY",
+      "aliases": [
+        "Westbury"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/37.html",
+      "councilDistricts": [
+        "C",
+        "K"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "19",
+      "name": "Westchase",
+      "officialName": "WESTCHASE",
+      "aliases": [
+        "Westchase"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/19.html",
+      "councilDistricts": [
+        "F"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "29",
+      "name": "Westwood",
+      "officialName": "WESTWOOD",
+      "aliases": [
+        "Westwood"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/29.html",
+      "councilDistricts": [
+        "J"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    },
+    {
+      "id": "1",
+      "name": "Willowbrook",
+      "officialName": "WILLOWBROOK",
+      "aliases": [
+        "Willowbrook"
+      ],
+      "url": "https://www.houstontx.gov/superneighborhoods/1.html",
+      "councilDistricts": [
+        "B"
+      ],
+      "councilDistrictSource": "https://www.houstontx.gov/planning/Demographics/sn-jurisdiction-2020/B-SNBR-BY-COUNCIL-DISTRICTS-2024.pdf",
+      "councilDistrictMapPeriod": "2024–2028"
+    }
+  ]
+}

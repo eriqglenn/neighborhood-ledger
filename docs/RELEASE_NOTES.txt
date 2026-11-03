@@ -1,0 +1,19 @@
+NEIGHBORHOOD LEDGER MLS — NO AI EDITION
+Run Install-Neighborhood-Ledger-MLS-No-AI.exe, then open the desktop shortcut
+Neighborhood Ledger MLS (No AI). This separate edition opens on Today.
+
+The assistant, ChatGPT sign-in, API settings and AI service code are removed.
+News searches, duplicate grouping, council updates, 311 lookup, deed lookup,
+maps, MLS applications, newsletters, letters and certificates remain available.
+Public-source lookups still require internet. No AI account or API key is needed.
+
+This installs separately from the AI MLS edition and the regular Ledger.
+It has its own saved records and starts with an empty workspace. To copy your
+work, use Settings & backup to export each neighborhood from your existing
+Ledger, then import that backup into the same neighborhood in this edition.
+AI credentials are not included in workspace exports or this installer.
+
+Application: %LOCALAPPDATA%\Programs\NeighborhoodLedgerMLSNoAI
+Records: %LOCALAPPDATA%\NeighborhoodLedgerMLSNoAI\Data
+Local port: 8898. The existing AI MLS edition keeps port 8897 and its own records.
+Build source: install requirements-build.txt and run build_windows.py on Windows.
